@@ -5,7 +5,7 @@ import Container from "@/components/ui/container";
 import MainNav from "@/components/main-nav";
 import getCategories from "@/actions/get-categories";
 import NavbarActions from "@/components/navbar-actions";
-import Logo from "@/public/Logo_TSTONE.svg";
+import Logo from "@/public/Logo_TSTONE-removebg-preview.png";
 
 export const revalidate = 0;
 
