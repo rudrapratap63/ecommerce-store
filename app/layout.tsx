@@ -10,8 +10,8 @@ import './globals.css'
 const font = Urbanist({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Store',
-  description: 'Store',
+  title: 'TSTONE',
+  description: 'Best Watch Collection',
 }
 
 export default function RootLayout({
